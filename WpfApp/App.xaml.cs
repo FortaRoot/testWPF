@@ -14,6 +14,6 @@ namespace WpfApp
     public partial class App : Application
     {
         // test
-
+        string a = "";
     }
 }
